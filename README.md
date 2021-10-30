@@ -44,6 +44,8 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26px"  align="left"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="26px"  align="left"/>
+
   <!--LINKS DE INTERES-->
 
 [website profile linkedin]: https://linkedin.com/in/josé-cossi-bracho
