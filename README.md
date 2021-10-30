@@ -1,6 +1,6 @@
 <!--Encabezado-->
 
-### Hi [Jose Cossi][website profile linkedin] here
+### Hi [José Cossi][website profile linkedin] here
 
 <!--Links Redes Sociales-->
 
