@@ -46,6 +46,10 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="26px"  align="left"/>
 
+<br/>
+
+---
+
   <!--LINKS DE INTERES-->
 
 [website profile linkedin]: https://linkedin.com/in/josé-cossi-bracho
