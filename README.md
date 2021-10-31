@@ -1,6 +1,8 @@
 <!--Encabezado-->
 
-### Hi [José Cossi][website profile linkedin] here 🌱
+### Hi José Cossi here 🌱
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309202A&lines=Full+Stack+Developer;Systems+Engineer)](https://git.io/typing-svg)
 
 <!--Links Redes Sociales-->
 
@@ -10,7 +12,7 @@
 
 <!--Descripcion de quien soy-->
 
-### Web Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### Full Stack Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 👋 Hi, I'm @josecossi89
 - 👀 I'm very interested in programming ...
