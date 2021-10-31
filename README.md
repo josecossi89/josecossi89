@@ -2,7 +2,7 @@
 
 ### Hi José Cossi here 🌱
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309202A&lines=Full+Stack+Developer;Systems+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Full+Stack+Developer;Systems+Engineer)](https://git.io/typing-svg)
 
 <!--Links Redes Sociales-->
 
