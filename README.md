@@ -22,7 +22,7 @@
 
 <!--Tecnologias que manejo-->
 
-### Languages and Tools
+### 🚀💻 Languages and Tools
 
 <!-- Solo se cambia la url, ya que todo esta en un repo de  github: https://github.com/devicons/devicon/tree/master/icons-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26px"  align="left"/>
@@ -49,7 +49,9 @@
 
 ---
 
-<img src= "https://github-readme-stats.vercel.app/api?username=josecossi89&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecossi89&hide=TeX&layout=compact">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=josecossi89&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecossi89&hide=TeX&layout=compact)
 
   <!--LINKS DE INTERES-->
 
