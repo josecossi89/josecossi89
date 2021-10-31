@@ -1,6 +1,6 @@
 <!--Encabezado-->
 
-### Hi [José Cossi][website profile linkedin] here
+### Hi [José Cossi][website profile linkedin] here 🌱
 
 <!--Links Redes Sociales-->
 
@@ -49,7 +49,8 @@
 
 ---
 
-<img src= "https://github-readme-stats.vercel.app/api?username=josecossi89&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src= "https://github-readme-stats.vercel.app/api?username=josecossi89&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecossi89&hide=TeX&layout=compact">
+
   <!--LINKS DE INTERES-->
 
 [website profile linkedin]: https://linkedin.com/in/josé-cossi-bracho
