@@ -6,14 +6,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JosCossi1?color=%231DA1F2&label=Jose%20Cossi&logo=twitter&style=social)](https://twitter.com/JosCossi1) [![Linkedin: Jose Cossi](https://img.shields.io/badge/-josecossibracho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/josé-cossi-bracho/)](https://linkedin.com/in/josé-cossi-bracho) ![GitHub followers](https://img.shields.io/github/followers/josecossi89?style=social)
 
-<!-- ***DEBO COLOCAR UNA IMAGEN ACA****
-<img align="center" alt="Coding" width="400"  height = "150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
--->
+<!--Repos/visitas/otros-->
+
 <!--Descripcion de quien soy-->
 
 ### Web Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 👋 Hi, I'm @ josecossi89
+- 👋 Hi, I'm @josecossi89
 - 👀 I'm very interested in programming ...
 - 🌱 I am currently learning Javascript / React / Web Technologies ...
 - 💞️ I am searching to collaborate on projects of any kind that help me reinforce my knowledge of both Javascript and web technologies ...
@@ -50,6 +49,8 @@
 
 ---
 
+<img src= "https://github-readme-stats.vercel.app/api?username=josecossi89&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <!--LINKS DE INTERES-->
 
 [website profile linkedin]: https://linkedin.com/in/josé-cossi-bracho
+[visits badge]: https://badges.pufler.dev/visits/{@josecossi89}/{josecossi89}
