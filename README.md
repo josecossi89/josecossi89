@@ -15,7 +15,7 @@
 ### Desarrollador Web FullStack <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 👋 Hola, soy @josecossi89
-- 🌱 Soy estudiante del Bootcamp de la academia Soy Henry
+- 🌱 Soy estudiante del Bootcamp FullStack de la academia Soy Henry
 - 👀 Me gusta mucho la programación, ya que es la herramienta adecuada para solventar muchos problemas de la vida diaria de las personas.
 - 🌱 Actualmente me encuentro aprendiendo tecnologias tanto frontend como backend entre las cuales estan: JavaScript, React y Node.
 - 💞️ Tengo especial interes en ayudar en proyectos colaborativos, ya que me ayudarian a desarrollar mis habilidades técnicas, ademas de aprender de otras personas y entornos!
