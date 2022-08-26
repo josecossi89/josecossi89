@@ -83,7 +83,19 @@
 
 # 💫 About Me:
 
-telescope I’m currently working on my Skills.<br>seedling I am currently learning more about the cloud, specifically about AWS and Google Cloud.<br>thinking I am looking for help with exploring new technologies and with the English language.<br>speech_balloon Ask me about any topic related to technology and we learn together..<br>mailbox You can contact me here: Email - josecossib@gmail.com<br>smile Pronouns: He/His<br>zap Fun fact: My favorite place in the world is the beach.
+🌱 I’m currently working on my Skills.
+<br>
+👀 I am currently learning more about the cloud, specifically about AWS and GCP.
+<br>
+🚀 I am looking for help with exploring new technologies and with the English language.
+<br>
+💬 Ask me about any topic related to technology and we learn together..
+<br>
+📫 You can contact me here: Email - josecossib@gmail.com
+<br>
+👋 Pronouns: He/His
+<br>
+⚡ My favorite place in the world is the beach.
 
 ## 🌐 Socials:
 
